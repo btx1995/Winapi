@@ -1,0 +1,62 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+syntax: glob
+*.suo
+*.obj
+*.pdb
+*.user
+*.vspscc
+*.bak
+*.cache
+*.log
+*.lib
+[Bb]in
+[Dd]ebug*/
+obj/
+[Rr]elease*/
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+*.[Pp]ublish.xml
+[Bb]uild[Pp]rocess[Tt]emplates/*
+Published/*
+[Tt]humbs.db
+[Uu]pgrade[Ll]og*.[Xx][Mm][Ll]
+_[Uu]pgradeReport_Files*/
+*.build.csdef
+[Pp]ackage/*
+[Pp]ackages/*
+aspnetdb_log.ldf
+*[Vv]isual[Ss]tate.[Xx][Mm][Ll]
+_[Rr]e[Ss]harper*
